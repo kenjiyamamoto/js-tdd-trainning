@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-trainning",
+  "version": "1.0.0",
+  "description": "JS com TDD na Prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenjiyamamoto/js-tdd-trainning.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "trainning"
+  ],
+  "author": "Kenji Yamamoto <kenjiys@gmail.com> (http://kenjiyamamoto.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenjiyamamoto/js-tdd-trainning/issues"
+  },
+  "homepage": "https://github.com/kenjiyamamoto/js-tdd-trainning#readme"
+}
